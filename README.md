@@ -1,9 +1,9 @@
 ## Hi There, I'm Matheus Gomes
-###I'm a control engineering and automation estudent.
+### I'm a control engineering and automation estudent.
 
 -I study ReactJs and Arduino
 
-###[linkedin](https://www.linkedin.com/in/matheus-gomes-343790212/) 
+### [linkedin](https://www.linkedin.com/in/matheus-gomes-343790212/) 
 
 
 <!--
